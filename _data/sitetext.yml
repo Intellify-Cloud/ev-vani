@@ -157,12 +157,14 @@ team:
         role: "Head of Homeloans"
         image: assets/img/team/500x500.jpg
         social:
-          - url: tel:084 433 6333
+          - url: tel: 079 485 5355
             icon: fas fa-phone
           - url: mailto:vania.leonard@evogroup.co.za?subject=Website Enquiry
             icon: fas fa-envelope
-          # - url: https://facebook.com
-          #   icon: fab fa-facebook-f
+          - url: https://www.facebook.com/EvoVaniaLeonard
+            icon: fab fa-facebook-f
+          - url: https://www.linkedin.com/in/bondapply
+            icon: fab fa-linkedin-in
 contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
@@ -173,8 +175,8 @@ footer:
     social:
       # - url: https://twitter.com
       #   icon: "fab fa-twitter"  
-      # - url: https://facebook.com
-      #   icon: "fab fa-facebook-f"
+      - url: https://www.facebook.com/EvoVaniaLeonard
+        icon: "fab fa-facebook-f"
       # - url: https://linkedin.com
       #   icon: "fab fa-linkedin-in"
       # - url: https://github.com/raviriley/agency-jekyll-theme
