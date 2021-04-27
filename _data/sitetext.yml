@@ -15,17 +15,20 @@ services:
         desc: "I submit Home Loan Applications to up to seven banks negotiating the best interest rates and deal in the market at any given time."
         icon: fas fa-home
         link: 
-          url: mailto:vania.leonard@evogroup.co.za?subject=Mail from evo Vania Leaonard website
-          text: "Email Us"
+          url: mailto:vania.leonard@evogroup.co.za?subject=Mail from evo Vania Leonard website
+          text: "Email Me"
       - title: "Pre-qualification"
-        desc: "One of our experts will help check your credit record, income and expenses to give you an accurate assessment of what you can afford. We let you know how likely you are to qualify for a bond."
+        desc: "I help check you check your credit record, income and expenses to give you an accurate assessment of what you can afford. You will then know how likely you are to qualify for a bond."
         icon: fas fa-tasks       
         link:
           url: tel:+27794855355
           text: "Call: 079 485 5355"
-      - title: "I’m Still Looking for a Home"
-        desc: "I’m searching property portals and visiting show houses"
+      - title: "Still Looking for a Home"
+        desc: "I’m searching property portals and visiting show houses but have a few questions."
         icon: fas fa-search
+        link: 
+          url: mailto:vania.leonard@evogroup.co.za?subject=Mail from evo Vania Leonard website
+          text: "Email Me"
 
 articles:
     title: "Articles"
@@ -76,20 +79,20 @@ more-calculators:
           text: "Calculate"
 
 textblock:
-    title: "Why Vania Leonard"
-    text: "Home loans are our business, and we focus on getting bonds approved."
+    title: "Why evo Vania Leonard"
+    text: "Home loans is my business, and my focus is to get your bond approved."
     footer: "My service is completely FREE, with no obligation."
     section: textblock
     list:
-      - title: "We help you complete one application, which we submit to all the banks."
+      - title: "I help you complete one application, which I submit to all the banks."
         image: "fa-university"
-      - title: "We apply to the banks including your own to get quotes."
+      - title: "I apply to the banks, including your own bank, to get quotes."
         image: "fa-file-invoice-dollar"
-      - title: "You can then compare the various quotes."
+      - title: "You can compare the quotes from each bank."
         image: "fa-balance-scale"
-      - title: "We will negotiate the rate & terms on your behalf."
+      - title: "I negotiate the best interest rates and deal on your behalf."
         image: "fa-comments-dollar"
-      - title: "We can assist you in securing a zero deposit bond if required."
+      - title: "I can help you in securing a zero deposit bond if required."
         image: "fa-user-shield"
 
 portfolio:
@@ -103,10 +106,17 @@ about:
     text2: "At evo Vania Leonard my vision is to enable positive futures for my clients. My mission is to be my client’s most trusted partner. I am passionate about helping my clients achieve their goal of buying property. I am committed to my clients to provide the best service possible. <br>
     
     <br> 
-    Evo Up is dedicated to operational excellence from a service level and optimal client outcome perspective. We seek to procure the best interest rates for our clients within an impressive turnaround time. Our team have more than 50 years of combined experience within the financial services industry and service more than 1000 clients. <br>
     
+    I am a seasoned property professional, and have spent the last 28 years in the property industry, gaining knowledge and experience in the different aspects of property sales and finance. I have a keen interest in communications, marketing, sales and customer service, obtained a National Diploma in Public  Relations, NQF4 and spent some time in the corporate world of Public Relations and Publicity.<br> 
+    
+    <br> 
+
+    I have more than 15 years’ specialised experience in bond finance and origination, having worked at ABSA Home Loans, Sanlam Home Loans, Mortgage Max and BetterBond previously. I am committed to excellent client service, building long-term relationships and always focus on the client's best interests rather than my own personal gain. 
+    
+    On a personal note, I was born in Cape Town, matriculated at Alexander Road High School in PE, studied at the Nelson Mandela University (PE) and spent 5 years in Langebaan as an Estate Agent. I enjoy running, stand-up paddle boarding, scuba diving, open-water swimming, sailing and horse-riding. On weekends (when I’m not doing show houses with agents) I enjoy spending time with my brothers, Eldon and Warren, and father, Ernie. <br>    
     <br>
-    We are proud to be associated with Evo, who is a part of the ooba Group."
+
+    I am proud to be associated with Evo, who is a part of the ooba Group. Evo was launched to the market as a licensee model designed to cater for the origination business market and individual home loan consultants seeking to align themselves with an established brand within the mortgage origination industry. evo is managed by a highly efficient team with years of experience in banking and origination business, with over 100 licensed independent offices."
     
 clients:
     title: Bank Partners
@@ -117,11 +127,9 @@ clients:
       - title: "ABSA"
         url: https://www.absa.co.za
         logo: assets/img/clients/absa-bw.png
-
       - title: "FNB"
         url: https://www.fnb.co.za/
         logo: assets/img/clients/fnb-bw.png
-        
       - title: "Investec"
         url: https://www.investec.co.za/
         logo: assets/img/clients/investec-bw.png
@@ -139,45 +147,22 @@ clients:
         logo: assets/img/clients/SBSA-bw.png
     
 team:
-    title: "OUR TEAM"
+    title: "THE TEAM"
     # text: "Lorem ipsum dolor sit amet consectetur."
     # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     contact: 
     people:
-      - name: "Michelle Mostert"
+      - name: "Vania Leaonard"
         role: "Head of Homeloans"
         image: assets/img/team/500x500.jpg
         social:
           - url: tel:084 433 6333
             icon: fas fa-phone
-          - url: mailto:mailto:michelle.mostert@evogroup.co.za?subject=Website Enquiry
+          - url: mailto:vania.leonard@evogroup.co.za?subject=Website Enquiry
             icon: fas fa-envelope
           # - url: https://facebook.com
           #   icon: fab fa-facebook-f
-
-      - name: "Charles Marais"
-        role: "Executive Director"
-        image: assets/img/team/gavin-young.jpg
-        social:
-          - url: tel:072 594 2141
-            icon: fas fa-phone
-          - url: mailto:charles.marais@evogroup.co.za?subject=Website Enquiry
-            icon: fas fa-envelope
-          # - url: https://www.linkedin.com/in/eben-roux-854923135/
-          #   icon: fab fa-linkedin-in
-
-      - name: "Claudia Holtzhauzen"
-        role: "Bond Administrator"
-        image: assets/img/team/Claudia Holtzhauzen - Evo Up - Bond Administrator.jpg
-        social:
-          - url: tel:071 157 1484
-            icon: fas fa-phone
-          - url: mailto:claudia.holtzhauzen@evogroup.co.za?subject=Website Enquiry
-            icon: fas fa-envelope
-          # - url: https://www.linkedin.com/in/eben-roux-854923135/
-          #   icon: fab fa-linkedin-in
-
 contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"

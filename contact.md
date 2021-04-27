@@ -19,10 +19,10 @@ background: grey
     </div>
 
     <div class="col-md">
-		<p>Unit xxx, xxx Building</p>
-		<p>xxx Drive & xxx Avenue</p>
-		<p>Port Elizabeth</p>
-		<p>xxxx</p>
+		<p>21 Reginald Road</p>
+		<p>Mount Pleasant</p>
+		<p>Gqeberha (Port Elizabeth)</p>
+		<p>6070</p>
     </div>
     
   </div>
