@@ -12,24 +12,24 @@ services:
     section: services
     list:
       - title: "Bond Origination"
-        desc: "We submit your application to up to seven banks to get you the best rate, at NO cost to you?"
+        desc: "I submit Home Loan Applications to up to seven banks negotiating the best interest rates and deal in the market at any given time."
         icon: fas fa-home
         link: 
-          url: mailto:evoup@evogroup.co.za?subject=Mail from evo UP website
+          url: mailto:vania.leonard@evogroup.co.za?subject=Mail from evo Vania Leaonard website
           text: "Email Us"
       - title: "Pre-qualification"
         desc: "One of our experts will help check your credit record, income and expenses to give you an accurate assessment of what you can afford. We let you know how likely you are to qualify for a bond."
         icon: fas fa-tasks       
         link:
-          url: tel:+27210232228
-          text: "Call: 021 023 2228"
+          url: tel:+27794855355
+          text: "Call: 079 485 5355"
       - title: "I’m Still Looking for a Home"
         desc: "I’m searching property portals and visiting show houses"
         icon: fas fa-search
 
 articles:
     title: "Articles"
-    text: "Below is a list of our latest blog posts that help you keep up with the latest news in homeloans, interest rates and the South African property market."
+    text: "Here is a list of our articles that can help inform you about news in homeloans, interest rates and the South African property market."
     section: articles
 
 calculators:
@@ -76,9 +76,9 @@ more-calculators:
           text: "Calculate"
 
 textblock:
-    title: "Why evo Up"
+    title: "Why Vania Leonard"
     text: "Home loans are our business, and we focus on getting bonds approved."
-    footer: "Our service is completely FREE, with no obligation."
+    footer: "My service is completely FREE, with no obligation."
     section: textblock
     list:
       - title: "We help you complete one application, which we submit to all the banks."
@@ -100,7 +100,7 @@ portfolio:
     
 about:
     title: "About Us"
-    text2: "Evo Up is a bond origination and insurance procurement company servicing the entirety of South Africa. We have origination channels with all the major Banks and access to a network of professional Financial Advisors. Our team consists of experienced business professionals with skills ranging from expert bond origination, financial advisory and project implementation. Our services are underpinned by specialist digital systems and process management tools. <br>
+    text2: "At evo Vania Leonard my vision is to enable positive futures for my clients. My mission is to be my client’s most trusted partner. I am passionate about helping my clients achieve their goal of buying property. I am committed to my clients to provide the best service possible. <br>
     
     <br> 
     Evo Up is dedicated to operational excellence from a service level and optimal client outcome perspective. We seek to procure the best interest rates for our clients within an impressive turnaround time. Our team have more than 50 years of combined experience within the financial services industry and service more than 1000 clients. <br>
