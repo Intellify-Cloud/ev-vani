@@ -157,7 +157,7 @@ team:
         role: "Head of Homeloans"
         image: assets/img/team/500x500.jpg
         social:
-          - url: tel: 079 485 5355
+          - url: tel:079 485 5355
             icon: fas fa-phone
           - url: mailto:vania.leonard@evogroup.co.za?subject=Website Enquiry
             icon: fas fa-envelope
