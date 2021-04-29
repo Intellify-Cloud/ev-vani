@@ -17,5 +17,5 @@ nav:
   - title: "Contact"
     url: /contact
 
-# - title: "Blog"
-#   section: articles
+  - title: "Blog"
+    section: articles

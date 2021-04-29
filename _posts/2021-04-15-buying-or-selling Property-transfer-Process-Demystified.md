@@ -1,18 +1,32 @@
 ---
 layout: post
-title:  "Property Valuation: How to determine the value of your home."
+title:  "Buying or Selling Property? Transfer Process Demystified"
 category:
 image: https://source.unsplash.com/collection/1139349/400x300?a1
 ---
 
-Whether you’re a buyer or a seller, knowing the value of a property is an important step in the negotiation process. Here’s a guide to property valuation.
+Transferring the ownership of a property from the seller to the buyer can sometimes
+be a complicated and misunderstood process.
+“Understanding the transfer sequence and having all the necessary documentation at
+hand before the start of the process will ensure that everything progresses without
+incident,” says Goslett.
 
-### Article summary
+This is according to Adrian Goslett, Regional Director and CEO of RE/MAX of
+Southern Africa, who says the process involves a number of parties, many of whom
+have conflicting interests.
 
-* The main factors in determining the value of a property are the selling price of other properties in the area, and the price at which the property in question was previously sold for.
-* The advice of estate agents is invaluable in determining a property’s estimated market value, and what its price tag should be.
-* Market forces play a substantial role in determining property value and the final selling price; for example, a buyers’ market may force you to sell a property at below the estimated market value.
+"Regardless of each party’s interest in the process, all have to work together and coordinate their efforts to ensure that the documentation arrives at the Deeds Office simultaneously" says Goslett.
 
+“Certain parties, such as the real estate agent, mortgage lender and bond originator,
+who have a financial interest in the transaction, often want the process to be
+concluded in the shortest possible time frame, much like the buyer and sellers
+themselves.”
+
+He says understanding the sequence of events during the transfer procedure will assist
+buyers and sellers to accurately monitor the process and provide them with an idea of
+the time remaining at each stage.
+“On average the process can take around three months, starting from the date of sale
+and ending with the property being registered in the new owner’s name,” says Goslett.
 Whether you are looking to buy or sell, knowing the value of a property is an important step in the negotiation process. As such, it helps to know what factors play a role in property valuation.
 
 There is a process involved, and being knowledgeable of it means you don’t have to “guess” the value of the property based on superficial elements

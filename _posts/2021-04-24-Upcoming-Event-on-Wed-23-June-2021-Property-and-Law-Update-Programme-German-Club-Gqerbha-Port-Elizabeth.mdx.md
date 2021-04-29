@@ -1,15 +1,18 @@
 ---
 layout: post
-title:  "The Home Loan Application Process in South Africa"
+title:  "Event - 23 June 2021 - Property & Law Update Programme - German Club - Gqerbha (Port Elizabeth)"
 category: 
 image: https://source.unsplash.com/collection/1139349/400x300?a2
 ---
 
-> Obtaining a home loan is one of the most important steps toward securing your new home. Here’s a rundown of the home application process.
+Visit the German Club in Gqerbha (Port Elizabeth) on Wed 23 June 2021
 
-**Article summary**
+### Program 
 
--   Obtaining a home loan is the most important step in the home buying process. Getting prequalified can help by giving you a solid idea of what you can afford, which will improve your chances of approval.
+* Coffee, tea and muffins on arrival
+* Welcome by Vania Leonard from Evo Group
+
+-   Obtaining a home loan is the most important step in the home buying process. Getting pre-qualified can help by giving you a solid idea of what you can afford, which will improve your chances of approval.
 -   Your chances of home loan approval are determined by, amongst other things, your credit record and the size of your deposit.
 -   Your goal is to secure a home loan with as low interest rates as possible.
 -   evo, makes the process easier by applying to multiple banks on your behalf, comparing home loan deals to find the best one for you.
