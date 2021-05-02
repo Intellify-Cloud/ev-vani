@@ -165,6 +165,23 @@ team:
             icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/bondapply
             icon: fab fa-linkedin-in
+
+testimonials:
+    title: "TESTIMONIALS"
+    text: "What Others Say About Me"
+    section: testimonials
+    people:
+      - name: "Garth Dorman"
+        testimony: "In my recent dealings with Vania, I can highly recommend her as she is a highly effective trustworthy person. Always professional and very quick to react and pursues the service till the end. Keeping us informed and updated constantly. She has an excellent knowledge of what she does and also the market out there and what is to offer to her clients. I will do business with her again anytime in future. Thanks Vania and keep up this exceptional business ethic."
+        
+      - name: "Andre en Liza-Anne – Langebaan"
+        testimony: "Baie dankie vir jou uitstekende diens! Jy het die berg papierwerk soos n molshopie laat lyk. Dankie vir die gereelde terugvoering en dat jy alles so mooi verduidelik het, ons verstaan nie altyd al die terme nie! Jy het die hele proses baie vergemaklik en alles binne 3 weke afgehandel. Ons is baie dankbaar vir jou en dat jy so lekker met die banke gebargain het vir ons! Weereens baie dankie!"
+
+      - name: "Nicci van Zyl –"
+        testimony: "Thank you, Vania, for your dedication and professional help and advice given. You have most definitely increased my buying power and helped me to have an impressive credit report. I look forward to contacting you in the near future, again. I will definitely pass your details on to friends and family. ☆☆☆☆☆ "
+
+        
+
 contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
