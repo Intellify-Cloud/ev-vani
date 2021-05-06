@@ -18,7 +18,7 @@ services:
           url: mailto:vania.leonard@evogroup.co.za?subject=Mail from evo Vania Leonard website
           text: "Email Me"
       - title: "Pre-qualification"
-        desc: "I help check you check your credit record, income and expenses to give you an accurate assessment of what you can afford. You will then know how likely you are to qualify for a bond."
+        desc: "I help you check your credit record, income and expenses to give you an accurate assessment of what you can afford. You will then know how likely you are to qualify for a bond."
         icon: fas fa-tasks       
         link:
           url: tel:+27794855355
