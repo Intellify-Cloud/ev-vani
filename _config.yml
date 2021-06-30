@@ -23,3 +23,11 @@ logo:
   path: /assets/logo.png
 
 exclude: [node_modules,webpack-config.js,package.json,package-lock.json]
+
+group: evo Group
+
+company: evo Vania Leonard
+
+url: www.evovanialeonard.co.za
+
+address: 21 Reginald Road, Mount Pleasant, Gqeberha (Port Elizabeth), 6070
