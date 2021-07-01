@@ -11,7 +11,7 @@ background: grey
 
 #### Definitions
 
-**We, us and our**; refers to {{ site.company }} (Proprietary) Limited (“{{ site.company }}”), a private company with limited liability registered under the company laws of the Republic of South Africa, and where the principal place of business is {{ site.address }}.
+**We, us and our**; refers to {{ site.company }}, a private company with limited liability registered under the company laws of the Republic of South Africa, and where the principal place of business is {{ site.address }}.
 
 **You and your**; refers to any customer of {{ site.company }} of other data subject whose personal information is held by any member of {{ site.company }}.
 
