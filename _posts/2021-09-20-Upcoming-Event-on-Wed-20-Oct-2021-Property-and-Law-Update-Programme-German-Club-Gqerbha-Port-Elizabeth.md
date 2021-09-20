@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  "23 June 2021 - Event: Property & Law Update Programme"
+title:  "20 October 2021 - Event: Property & Law Update in Gqeberha (PE)"
 category: 
 image: https://source.unsplash.com/collection/1139349/400x300?a2
 ---
+
+Property & Law Update Programme - German Club - Gqeberha
+(Port Elizabeth) on Wednesday 20 October 2021
+
 
 * **Date:** Wednesday 23 June 2021
 * **Venue:** German Club, 5 Lorraine Street – Gqeberha (Port Elizabeth)
@@ -15,8 +19,9 @@ image: https://source.unsplash.com/collection/1139349/400x300?a2
 
 ###### Arrive: 9h30 - Coffee, tea and muffins
 
+###### Welcome by Vania Leonard from the Evo Group (5 - 10 minutes)
 
-###### Welcome by Vania Leonard from the Evo Group 
+###### Kobie Emmerson – Currencies Direct: International Money Transfer Solutions (10 minutes)
 
 ###### Main Speaker: Stiaan Jonker – Smith Tabata Attorneys
 * Transfer duty vs VAT
@@ -26,19 +31,21 @@ image: https://source.unsplash.com/collection/1139349/400x300?a2
 *--- Comfort Break ---*
 
 ###### Vania Leonard – Evo Group
-* Property Finance & Pre-Qualifications
+* IEASA presentation - Vania Leonard (5 - 10 minutes)
 * IEASA Intro
 
 
-###### Annelie Morton - Oosterland child and youth care centre (5-10 mins)
+###### Annelie Morton from Oosterland - Intro to Oosterland (5 - 10 minutes)
 
 ###### Vania Leonard – Evo Group - Property Finance & Pre-Qualifications (15 mins)
 
 ###### Heather Coyle-Dowling – Rodel - Lucky Draw
 
+###### Tanya van der Merwe - Standard Bank Home Loans Update (10 minutes)
+
 <br>
 
 #### Bookings
-Via website <http://www.ieasawcape.org.za/pub/trainingevent/info/2144>
+Via website <http://www.ieasa.org.za/pub/trainingevent/info/2179>
 
 For enquiries contact Lee-Ann via <info@cape.ieasa.org.za>
