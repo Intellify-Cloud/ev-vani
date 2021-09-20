@@ -5,11 +5,8 @@ category:
 image: https://source.unsplash.com/collection/1139349/400x300?a2
 ---
 
-Property & Law Update Programme - German Club - Gqeberha
-(Port Elizabeth) on Wednesday 20 October 2021
 
-
-* **Date:** Wednesday 23 June 2021
+* **Date:** Wednesday 20 October 2021
 * **Venue:** German Club, 5 Lorraine Street – Gqeberha (Port Elizabeth)
 * **Time:** 09h30 -12h00
 * **Cost:** R30 IEASA Members / R60 Non- Members (including refreshment)
